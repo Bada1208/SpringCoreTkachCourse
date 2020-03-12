@@ -1,4 +1,4 @@
-package com.sysoiev.spring_core;
+package com.sysoiev.spring_core.loggers;
 
 public class ConsoleEventLogger implements EventLogger {
     @Override

@@ -32,7 +32,6 @@
         <artifactId>spring-jdbc</artifactId>
         <version>5.2.4.RELEASE</version>
     </dependency>
-
 </dependencies>
 
 </project>

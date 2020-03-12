@@ -1,10 +1,11 @@
-package com.sysoiev.spring_core;
+package com.sysoiev.spring_core.beans;
 
 public class Client {
     String id;
     String fullName;
 
     public Client(String id, String fullName) {
+        super();
         this.id = id;
         this.fullName = fullName;
     }
